@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mi Página Informativa</title>
+    <title>ASTROS Y MAESTROS</title>
     <!-- Agregar enlaces a Bootstrap CSS -->
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
@@ -15,7 +15,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <h1>Nombre de la Empresa</h1>
+                    <h1>ASTROS Y MAESTROS</h1>
                 </div>
                 <div class="col-md-6 text-end">
                     <p>Teléfono: (123) 456-7890</p>
