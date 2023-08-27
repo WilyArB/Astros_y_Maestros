@@ -25,3 +25,7 @@
 .textoBlanco{
     color: white;
 }
+
+.imgSlide{
+    max-height: 70vh;
+}
